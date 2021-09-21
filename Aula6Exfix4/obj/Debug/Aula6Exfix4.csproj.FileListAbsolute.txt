@@ -1,0 +1,6 @@
+D:\66\VISUALSTUDIOC#\Aula6Exfix4\Aula6Exfix4\bin\Debug\Aula6Exfix4.exe.config
+D:\66\VISUALSTUDIOC#\Aula6Exfix4\Aula6Exfix4\bin\Debug\Aula6Exfix4.exe
+D:\66\VISUALSTUDIOC#\Aula6Exfix4\Aula6Exfix4\bin\Debug\Aula6Exfix4.pdb
+D:\66\VISUALSTUDIOC#\Aula6Exfix4\Aula6Exfix4\obj\Debug\Aula6Exfix4.csproj.CoreCompileInputs.cache
+D:\66\VISUALSTUDIOC#\Aula6Exfix4\Aula6Exfix4\obj\Debug\Aula6Exfix4.exe
+D:\66\VISUALSTUDIOC#\Aula6Exfix4\Aula6Exfix4\obj\Debug\Aula6Exfix4.pdb
